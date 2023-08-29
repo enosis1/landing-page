@@ -11,3 +11,5 @@ I will be showcasing the following skills:
 - CSS
     - Basic CSS
     - Flexbox layout
+
+[Live preview](https://enosis1.github.io/landing-page) of this project.
