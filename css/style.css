@@ -14,7 +14,7 @@ img {
 .third-container,
 .fourth-container,
 .fifth-container {
-  padding: 10px 300px;
+  padding: 10px 350px;
 }
 
 .first-container,
@@ -88,7 +88,7 @@ button {
   border-radius: 5px;
   color: white;
   background-color: #3882f6;
-  padding: 5px 25px;
+  padding: 5px 30px;
 }
 
 .hero-button {
@@ -126,12 +126,42 @@ button {
   font-style: italic;
   color: #1f2937;
   margin-bottom: 0;
-  padding-top: 80px;
+  padding: 100px;
 }
 
 .quoter {
   align-self: flex-end;
   font-weight: bold;
   font-size: 18px;
-  padding-bottom: 80px;
+  padding-bottom: 40px;
+}
+
+.fourth-call-to-action {
+  display: flex;
+  background-color: #3882f6;
+  padding: 40px 100px;
+  margin: 90px 0;
+  border-radius: 7px;
+}
+
+.fourth-header {
+    font-weight: bold;
+    font-size: large;
+}
+
+.fourth-header, 
+.fourth-text {
+    color: white;
+    margin: 0;
+}
+
+.fourth-text {
+    color: #e5e7eb;
+    font-weight: 100;
+}
+
+.fourth-button {
+  margin-left: auto;
+  align-self: center;
+  border: #e5e7eb solid;
 }
