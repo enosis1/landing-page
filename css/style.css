@@ -6,7 +6,7 @@ body {
 
 img {
   height: auto;
-  width: 400px;
+  width: 300px;
 }
 
 .first-container,
@@ -92,4 +92,20 @@ button {
 
 .hero-button {
     border: solid 1px #3882f6;
+}
+
+.second-header {
+    text-align: center;
+}
+
+.second-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.image {
+    flex: 1; 
+    text-align: center;
 }
